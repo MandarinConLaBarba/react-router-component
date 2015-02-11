@@ -19,6 +19,7 @@ module.exports = {
   Pages: Router.Pages,
 
   Location: Route.Route,
+  Redirect : Route.Redirect,
   Page: Route.Route,
   NotFound: Route.NotFound,
 
